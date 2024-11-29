@@ -1,0 +1,46 @@
+﻿@page
+@model newExam.Pages.AddOrderModel
+@{
+    ViewData["Title"] = "Добавить заявку";
+}
+<h1>Добавить заявку</h1>
+
+<form method="post">
+    <div>
+        <label>Номер заявки:</label>
+        <input type="number" name="number" required />
+    </div>
+    <div>
+        <label>Дата добавления:</label>
+        <input type="date" name="addedDate" required />
+    </div>
+    <div>
+        <label> Вид орг. техники:</label>
+        <input type="text" name="deviceType" required />
+    </div>
+    <div>
+        <label>Модель:</label>
+        <input type="text" name="deviceModel" required />
+    </div>
+    <div>
+        <label>Описание проблемы:</label>
+        <textarea name="description" required></textarea>
+    </div>
+    <div>
+        <label>Клиент:</label>
+        <input type="text" name="client" required />
+    </div>
+    <div>
+        <label>Номер телефона:</label>
+        <input type="text" name="phoneNumber" required />
+    </div>
+    <div>
+        <label>Статус:</label>
+        <select name="status" required>
+            <option value="новая заявка">новая заявка</option>
+            <option value="в процессе ремонта">в процессе ремонта</option>
+            <option value="выполнено">выполнено</option>
+        </select>
+    </div>
+    <button type="submit">Добавить</button>
+</form>

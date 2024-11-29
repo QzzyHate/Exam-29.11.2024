@@ -1,0 +1,75 @@
+﻿@page
+@model newExam.Pages.GetOrdersModel
+@{
+    ViewData["Title"] = "Заявки";
+}
+<h1>Заявки</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div>
+        @TempData["Message"]
+    </div>
+}
+
+<form method="post">
+    <div>
+        <input type="number" name="searchNumber" placeholder="Введите номер заяки" />
+        <button type="submit">Поиск</button>
+    </div>
+</form>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Номер</th>
+            <th>Дата добавления</th>
+            <th>Оборудование</th>
+            <th>Тип проблемы</th>
+            <th>Описание</th>
+            <th>Клиент</th>
+            <th>Мастер</th>
+            <th>Этап</th>
+            <th>Статус</th>
+            <th>Комментарий мастера</th>
+            <th>Дата оканчания работы</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.searchedOrder != null)
+        {
+            <tr>
+                <th>@Model.searchedOrder.number</th>
+                <th>@Model.searchedOrder.addedDate</th>
+                <th>@Model.searchedOrder.deviceType</th>
+                <th>@Model.searchedOrder.deviceModel</th>
+                <th>@Model.searchedOrder.description</th>
+                <th>@Model.searchedOrder.client</th>
+                <th>@Model.searchedOrder.master</th>
+                <th>@Model.searchedOrder.stage</th>
+                <th>@Model.searchedOrder.status</th>
+                <th>@Model.searchedOrder.masterComment</th>
+                <th>@Model.searchedOrder.complitedDate</th>
+            </tr>
+        }
+        else
+        {
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <th>@order.number</th>
+                    <th>@order.addedDate</th>
+                    <th>@order.deviceType</th>
+                    <th>@order.deviceModel</th>
+                    <th>@order.description</th>
+                    <th>@order.client</th>
+                    <th>@order.master</th>
+                    <th>@order.stage</th>
+                    <th>@order.status</th>
+                    <th>@order.masterComment</th>
+                    <th>@order.complitedDate</th>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

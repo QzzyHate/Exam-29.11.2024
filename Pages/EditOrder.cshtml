@@ -1,0 +1,42 @@
+﻿@page
+@model newExam.Pages.EditOrderModel
+@{
+    ViewData["Title"] = "Изменить заявку";
+}
+<h1>Изменить заявку</h1>
+
+<form method="post">
+    <div>
+        <label>Номер заявки:</label>
+        <input type="number" name="number" required />
+    </div>
+    <div>
+        <label>Описание:</label>
+        <textarea name="description"></textarea>
+    </div>
+    <div>
+        <label>Мастер:</label>
+        <input type="text" name="master" />
+    </div>
+    <div>
+        <label>Этап:</label>
+        <select name="stage">
+            <option value="готова к выдаче">готова к выдаче</option>
+            <option value="в процессе ремонта">в процессе ремонта</option>
+            <option value="ожидание запчастей">ожидание запчастей</option>
+        </select>
+    </div>
+    <div>
+        <label>Статус:</label>
+        <select name="status">
+            <option value="новая заявка">новая заявка</option>
+            <option value="в процессе ремонта">в процессе ремонта</option>
+            <option value="завершена">завершена</option>
+        </select>
+    </div>
+    <div>
+        <label>Комментарий мастера:</label>
+        <textarea name="masterComment"></textarea>
+    </div>
+    <button type="submit">Созранить изменения</button>
+</form>

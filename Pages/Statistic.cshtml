@@ -1,0 +1,33 @@
+﻿@page
+@model newExam.Pages.StatisticModel
+@{
+    ViewData["Title"] = "Статистика по заявкам";
+}
+<h1>Статистика по заявкам</h1>
+
+<table border="1">
+    <thead>
+        <th>Количество выполненых заявок</th>
+        <th>Среднее время выполнения заявки</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.complitedOrdersCount</td>
+            <td>@Model.avgCompleteOrderTime</td>
+        </tr>
+    </tbody>
+</table>
+<table border="1">
+    <thead>
+        <th>Статистика по типам неисправностей</th>
+    </thead>
+    <tbody>
+        @foreach (var description in Model.problemStats)
+        {
+            <tr>
+                <td>@description.Key</td>
+                <td>@description.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>

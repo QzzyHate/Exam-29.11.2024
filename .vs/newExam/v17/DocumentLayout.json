@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CCU\\source\\repos\\newExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\statistic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\statistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\editorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\getorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\getorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\pages\\addorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:pages\\addorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|c:\\users\\ccu\\source\\repos\\newexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2FA9493-B1D3-42AF-BA2A-24A7A7959021}|newExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Statistic.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\Statistic.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Statistic.cshtml.cs",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\Statistic.cshtml.cs",
+              "RelativeToolTip": "Pages\\Statistic.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:17:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistic.cshtml",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\Statistic.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Statistic.cshtml",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\Statistic.cshtml",
+              "RelativeToolTip": "Pages\\Statistic.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:16:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOrders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\GetOrders.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\GetOrders.cshtml.cs",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\GetOrders.cshtml.cs",
+              "RelativeToolTip": "Pages\\GetOrders.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:14:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditOrder.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\EditOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditOrder.cshtml.cs",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\EditOrder.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditOrder.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:13:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrder.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\AddOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddOrder.cshtml.cs",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\AddOrder.cshtml.cs",
+              "RelativeToolTip": "Pages\\AddOrder.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:12:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\GetOrders.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GetOrders.cshtml",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\GetOrders.cshtml",
+              "RelativeToolTip": "Pages\\GetOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:11:54.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\EditOrder.cshtml",
+              "RelativeDocumentMoniker": "Pages\\EditOrder.cshtml",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\EditOrder.cshtml",
+              "RelativeToolTip": "Pages\\EditOrder.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:11:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Pages\\AddOrder.cshtml",
+              "RelativeToolTip": "Pages\\AddOrder.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:11:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T13:10:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CCU\\source\\repos\\newExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CCU\\source\\repos\\newExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:08:07.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
